@@ -11,13 +11,18 @@
   width:180px;
   height:180px;
   margin-top:20px;
+  margin-right:auto;
+  margin-left:auto;
 }
+  input{
+  text-align:center;
+  }
 </style>
 </head>
   
 <body>
   <!-- Text input which will be converted into a QR Code-->
-  <input id="text" type="text" value="Hello World" style="width:80%" /><br />
+  <input id="text" type="text" value="Hello World" style="width:100%" /><br />
   <div id="qrcode"></div>
   <script src="./js/qrgenerator.js"></script>
 </body>
