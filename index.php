@@ -11,6 +11,7 @@
   width:240px;
   height:180px;
   margin-top:20px;
+  margin-bottom:50px;
   margin-right:auto;
   margin-left:auto;
 }
