@@ -17,6 +17,9 @@
   input{
   text-align:center;
   }
+  body{
+   zoom:200%; 
+  }
 </style>
 </head>
   
