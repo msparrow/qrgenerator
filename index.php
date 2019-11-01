@@ -8,7 +8,7 @@
   
 <style>
   #qrcode {
-  width:180px;
+  width:240px;
   height:180px;
   margin-top:20px;
   margin-right:auto;
