@@ -5,7 +5,7 @@
   <!-- Import of JQuery and JS Script for generating QR Codes -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
   <script src="https://cdn.rawgit.com/davidshimjs/qrcodejs/gh-pages/qrcode.min.js"></script>
-  <script src="js/qrgenerator.js"></script>
+  
 <style>
   #qrcode {
   width:240px;
@@ -37,5 +37,6 @@
   <br />
   <input id="submit" type="button" value="Request QR Data"></input>
   </div>
+  <script src="js/qrgenerator.js"></script>
 </body>
 </html>
